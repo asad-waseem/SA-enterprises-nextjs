@@ -21,8 +21,8 @@ export default function Cta() {
                                 </div>
                             </div>
                             <div className="bottom-content text-center py-4">
-                                <div className="link-btn">
-                                    <Link href="/contact" className="theme-btn btn-style-two mr-3"><span className="btn-title">Request a Quote</span></Link>
+                                <div className="link-btn d-flex flex-wrap justify-content-center gap-3">
+                                    <Link href="/contact" className="theme-btn btn-style-two"><span className="btn-title">Request a Quote</span></Link>
                                     <Link href="/products" className="theme-btn btn-style-one text-white"><span className="btn-title">View Catalogue</span></Link>
                                 </div>
                                 <div className="hint mt-3">Direct corporate quotation • Genuine manufacturer warranty</div>

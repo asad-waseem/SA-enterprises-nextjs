@@ -825,4 +825,187 @@
         position: relative;
         margin-bottom: 25px;
     }
+
+    .sec-title h2 {
+        font-size: 24px !important;
+        line-height: 32px !important;
+    }
+
+    .page-title .content-box h1 {
+        font-size: 26px !important;
+        line-height: 34px !important;
+        word-break: break-word;
+    }
+
+    .feature-block-one .inner-box {
+        max-width: 100%;
+        padding: 0 10px;
+    }
+
+    .error-section .image img {
+        max-width: 100%;
+        height: auto;
+    }
 }
+
+/* ==========================================================================
+   SA Enterprises Global Responsive Adjustments (Desktop, Tablet, Mobile)
+   ========================================================================== */
+
+/* Form input styling consistency */
+.contact-form .form-group input[type="tel"],
+.contact-form .form-group input[type="number"],
+.contact-form .form-group input[type="password"] {
+    position: relative;
+    display: block;
+    height: 54px;
+    width: 100%;
+    font-size: 15px;
+    color: rgb(12, 41, 87);
+    line-height: 30px;
+    font-weight: 600;
+    background-color: transparent;
+    border-radius: 6px;
+    padding: 11px 20px;
+    border: 1px solid rgb(225, 229, 233);
+    transition: all 300ms ease 0s;
+}
+
+/* Tablet & Smaller (< 992px) */
+@media only screen and (max-width: 991px) {
+    .about-section .image-block {
+        margin-bottom: 50px;
+        text-align: center;
+    }
+
+    .about-section .image-one {
+        margin-left: 0;
+        max-width: 100%;
+    }
+
+    .about-section .image-two {
+        margin-top: 20px;
+        max-width: 100%;
+    }
+
+    .about-section .image-one img,
+    .about-section .image-two img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    .sidebar-side,
+    .service-sidebar,
+    .shop-sidebar {
+        margin-top: 40px;
+    }
+}
+
+/* Mobile Devices (< 768px) */
+@media only screen and (max-width: 767px) {
+    .main-header .header-top .text {
+        text-align: center;
+        font-size: 13px;
+    }
+
+    .main-header .header-top .text span {
+        display: inline-block;
+        margin-bottom: 4px;
+    }
+
+    .header-top .top-left,
+    .header-top .top-right {
+        justify-content: center;
+        width: 100%;
+        text-align: center;
+    }
+
+    .header-top .contact-info li {
+        font-size: 12px;
+        margin: 4px 8px;
+    }
+
+    /* Admin Sidebar Mobile Adaptations */
+    .admin-sidebar {
+        width: 100% !important;
+    }
+
+    .admin-sidebar .nav {
+        flex-direction: row !important;
+        flex-wrap: wrap !important;
+        gap: 6px;
+    }
+
+    .admin-sidebar .nav-item {
+        margin-bottom: 0 !important;
+    }
+
+    .admin-sidebar .mt-5 {
+        margin-top: 15px !important;
+        padding-top: 15px !important;
+    }
+}
+
+/* Admin Sidebar Desktop Fixed Width (>= 768px) */
+@media only screen and (min-width: 768px) {
+    .admin-sidebar {
+        width: 260px !important;
+        min-height: 100vh;
+        flex-shrink: 0;
+    }
+}
+
+/* Small Mobile (< 576px) */
+@media only screen and (max-width: 575px) {
+    .banner-carousel .content-box .btn-box {
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 10px;
+    }
+
+    .banner-carousel .content-box .btn-box .theme-btn {
+        margin-right: 0;
+        margin-bottom: 0;
+        max-width: 100%;
+    }
+
+    .accordion-box .block .acc-btn {
+        padding: 16px 45px 16px 15px;
+        font-size: 16px;
+        line-height: 1.4;
+    }
+
+    .accordion-box .block .acc-content {
+        padding: 15px 15px;
+    }
+
+    .accordion-box .block .content .text {
+        font-size: 15px;
+        line-height: 1.5;
+    }
+
+    .footer-bottom .row {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 15px;
+    }
+
+    .footer-bottom .menu {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+    }
+
+    .footer-bottom .copyright {
+        text-align: center;
+        margin-top: 15px;
+    }
+
+    .page-title .content-box h1 {
+        font-size: 30px;
+        line-height: 38px;
+    }
+}

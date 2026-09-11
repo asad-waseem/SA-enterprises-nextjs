@@ -916,6 +916,31 @@ export default function WhatsAppWidget() {
                         display: none;
                     }
                 }
+
+                @media (max-width: 360px) {
+                    .sa-wa-creative-root {
+                        right: 10px;
+                        bottom: 12px;
+                    }
+                    .sa-wa-card {
+                        width: calc(100vw - 20px);
+                        bottom: 80px;
+                        border-radius: 18px;
+                    }
+                    .sa-wa-card-header {
+                        padding: 14px 14px;
+                    }
+                    .sa-tab-btn {
+                        padding: 7px 8px;
+                        font-size: 11px;
+                    }
+                    .sa-dept-phone {
+                        font-size: 13.5px;
+                    }
+                    .sa-dept-card {
+                        padding: 12px 14px 10px;
+                    }
+                }
             `}</style>
         </div>
     )

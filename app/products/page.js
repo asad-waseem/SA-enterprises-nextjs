@@ -59,8 +59,8 @@ export default function ProductsPage() {
                         {/* Main Product Grid */}
                         <div className="col-lg-8 content-side">
                             <div className="our-shop">
-                                <div className="items-sorting row m-0 justify-content-between align-items-center mb-4">
-                                    <div className="text">
+                                <div className="items-sorting d-flex flex-column flex-sm-row justify-content-between align-items-start align-items-sm-center gap-2 mb-4">
+                                    <div className="text mb-0">
                                         <p>Showing {filteredProducts.length} sourcing items {selectedCategory !== "all" && `in ${categories.find(c => c.id === selectedCategory || c.name === selectedCategory)?.name || selectedCategory}`}</p>
                                     </div>
                                     {selectedCategory !== "all" && (

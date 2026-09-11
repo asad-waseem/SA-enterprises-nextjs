@@ -45,7 +45,7 @@ export default function AdminQuotesPage() {
 
     return (
         <div>
-            <div className="d-flex justify-content-between align-items-center mb-4">
+            <div className="d-flex flex-column flex-sm-row justify-content-between align-items-start align-items-sm-center gap-3 mb-4">
                 <div>
                     <h2 className="mb-1">Quote Requests &amp; RFQs</h2>
                     <p className="text-muted small">Review incoming procurement requests and update lead statuses.</p>

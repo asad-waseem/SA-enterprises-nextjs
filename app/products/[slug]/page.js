@@ -81,14 +81,14 @@ export default function ProductDetailPage() {
                                     <img 
                                         src={product.featured_image || "/assets/images/shop/product-1.jpg"} 
                                         alt={product.name}
-                                        style={{ maxHeight: "380px", objectFit: "contain", margin: "0 auto" }}
+                                        style={{ maxHeight: "380px", maxWidth: "100%", height: "auto", objectFit: "contain", margin: "0 auto" }}
                                     />
                                 </div>
                             </div>
 
                             {/* Product Info & Quote CTA */}
                             <div className="col-lg-6 col-md-12">
-                                <div className="content-box pl-lg-4">
+                                <div className="content-box pl-lg-4 mt-4 mt-lg-0">
                                     <span className="badge badge-secondary mb-2 px-3 py-2" style={{ fontSize: "13px" }}>
                                         {product.category || "Corporate Hardware"}
                                     </span>

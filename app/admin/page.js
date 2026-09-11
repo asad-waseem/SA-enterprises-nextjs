@@ -46,7 +46,7 @@ export default function AdminDashboardPage() {
 
     return (
         <div>
-            <div className="d-flex justify-content-between align-items-center mb-4">
+            <div className="d-flex flex-column flex-sm-row justify-content-between align-items-start align-items-sm-center gap-3 mb-4">
                 <div>
                     <h2 className="mb-1">Procurement Dashboard</h2>
                     <p className="text-muted small">Manage product catalogue items, categories, and incoming B2B quote requests.</p>

@@ -58,9 +58,9 @@ export default function AdminLayout({ children }) {
     }
 
     return (
-        <div className="d-flex" style={{ minHeight: "100vh", backgroundColor: "#f8f9fa" }}>
+        <div className="d-flex flex-column flex-md-row" style={{ minHeight: "100vh", backgroundColor: "#f8f9fa" }}>
             {/* Admin Sidebar */}
-            <aside className="bg-dark text-white p-4" style={{ width: "260px", flexShrink: 0 }}>
+            <aside className="bg-dark text-white p-3 p-md-4 admin-sidebar">
                 <div className="mb-4 pb-3 border-bottom border-secondary">
                     <h4 className="text-white mb-1">SA Enterprises</h4>
                     <span className="badge badge-warning">Procurement Admin</span>

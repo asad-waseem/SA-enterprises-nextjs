@@ -61,7 +61,7 @@ export default function AdminProductsPage() {
 
     return (
         <div>
-            <div className="d-flex justify-content-between align-items-center mb-4">
+            <div className="d-flex flex-column flex-sm-row justify-content-between align-items-start align-items-sm-center gap-3 mb-4">
                 <div>
                     <h2 className="mb-1">Product Catalogue Management</h2>
                     <p className="text-muted small">Add, edit, publish, or remove B2B sourcing products.</p>
@@ -74,7 +74,7 @@ export default function AdminProductsPage() {
             <div className="mb-3">
                 <input 
                     type="text"
-                    className="form-control w-50"
+                    className="form-control w-100 w-md-50"
                     placeholder="Filter products by name, category, or brand..."
                     value={searchTerm}
                     onChange={(e) => setSearchTerm(e.target.value)}
