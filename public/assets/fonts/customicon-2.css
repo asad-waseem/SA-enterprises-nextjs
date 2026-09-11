@@ -1,0 +1,149 @@
+@font-face {
+    font-family: "customicon";
+    src: url("./customicon-2.ttf?92ec80e06f7bf84cf5f990222ade5e76") format("truetype"),
+url("./customicon-2.woff?92ec80e06f7bf84cf5f990222ade5e76") format("woff"),
+url("./customicon-2.woff2?92ec80e06f7bf84cf5f990222ade5e76") format("woff2"),
+url("./customicon-2.eot?92ec80e06f7bf84cf5f990222ade5e76#iefix") format("embedded-opentype"),
+url("./customicon-2.svg?92ec80e06f7bf84cf5f990222ade5e76#customicon") format("svg");
+}
+
+i[class^="customicon-"]:before, i[class*=" customicon-"]:before {
+    font-family: customicon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.customicon-right-chevron:before {
+    content: "\f101";
+}
+.customicon-magnifying-glass:before {
+    content: "\f102";
+}
+.customicon-engineer:before {
+    content: "\f103";
+}
+.customicon-crane:before {
+    content: "\f104";
+}
+.customicon-building:before {
+    content: "\f105";
+}
+.customicon-play-button:before {
+    content: "\f106";
+}
+.customicon-right-quote:before {
+    content: "\f107";
+}
+.customicon-sketch:before {
+    content: "\f108";
+}
+.customicon-home:before {
+    content: "\f109";
+}
+.customicon-building-1:before {
+    content: "\f10a";
+}
+.customicon-engineering:before {
+    content: "\f10b";
+}
+.customicon-brickwall:before {
+    content: "\f10c";
+}
+.customicon-phone-call:before {
+    content: "\f10d";
+}
+.customicon-architect:before {
+    content: "\f10e";
+}
+.customicon-measure:before {
+    content: "\f10f";
+}
+.customicon-brick-wall:before {
+    content: "\f110";
+}
+.customicon-global:before {
+    content: "\f111";
+}
+.customicon-globe:before {
+    content: "\f112";
+}
+.customicon-blueprint:before {
+    content: "\f113";
+}
+.customicon-checkmark:before {
+    content: "\f114";
+}
+.customicon-permission:before {
+    content: "\f115";
+}
+.customicon-discussion:before {
+    content: "\f116";
+}
+.customicon-goal:before {
+    content: "\f117";
+}
+.customicon-rocket:before {
+    content: "\f118";
+}
+.customicon-passport:before {
+    content: "\f119";
+}
+.customicon-businessman:before {
+    content: "\f11a";
+}
+.customicon-award:before {
+    content: "\f11b";
+}
+.customicon-architect-1:before {
+    content: "\f11c";
+}
+.customicon-trophy:before {
+    content: "\f11d";
+}
+.customicon-trophy-1:before {
+    content: "\f11e";
+}
+.customicon-budget:before {
+    content: "\f11f";
+}
+.customicon-calculator:before {
+    content: "\f120";
+}
+.customicon-suitcase:before {
+    content: "\f121";
+}
+.customicon-mail-advertising:before {
+    content: "\f122";
+}
+.customicon-file:before {
+    content: "\f123";
+}
+.customicon-innovation:before {
+    content: "\f124";
+}
+.customicon-shuttle:before {
+    content: "\f125";
+}
+.customicon-investment:before {
+    content: "\f126";
+}
+.customicon-lifebuoy:before {
+    content: "\f127";
+}
+.customicon-play:before {
+    content: "\f128";
+}
+.customicon-blogging:before {
+    content: "\f129";
+}
+.customicon-subscribe-rss-button:before {
+    content: "\f12a";
+}
+.customicon-chatting:before {
+    content: "\f12b";
+}

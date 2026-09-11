@@ -1,0 +1,82 @@
+/* Default Color File  */
+
+
+/* Background */
+
+.home_7 .theme-btn,
+.home_7 .banner-section.style-seven .banner-carousel .content-box h2:before,
+.home_7 .banner-section.style-seven .owl-theme .owl-nav .owl-prev:hover::after,
+.home_7 .banner-section.style-seven .owl-theme .owl-nav .owl-next:hover::after,
+.home_7 .sec-title .text-decoration::before,
+.home_7 .sec-title .text-decoration .left::before,
+.home_7 .sec-title .text-decoration .left::after,
+.home_7 .sec-title .text-decoration .right::before,
+.home_7 .sec-title .text-decoration .right::after,
+.home_7 .clients-home-7,
+.home_7 .fact-counter .count-box,
+.home_7 .news-block-one .category,
+.home_7 .subscribe-home-7 .inner-box .subscribe-form .form-group button,
+.home_7 .footer-style-seven .footer-bottom .social-links li a:hover,
+.home_7 .mobile-menu .menu-backdrop {
+    background-color: #0bdaba;
+}
+
+/* Color */
+
+.home_7 .header-style-six .main-menu .navigation>li.current>a,
+.home_7 .header-style-six .main-menu .navigation>li>a:hover,
+.home_7 .main-menu .navigation>li>ul>li>a:hover,
+.home_7 .main-menu .navigation>li>ul>li>ul>li>a:hover,
+.home_7 .header-top .contact-info li i,
+.home_7 .header-top .social-links li a:hover,
+.home_7 .header-style-seven .header-top .text i,
+.home_7 .header-style-seven .header-top .text span,
+.home_7 .header-style-seven .header-upper .logo-box .login-box a:hover,
+.home_7 .header-style-seven .main-menu .navigation>li.current>a,
+.home_7 .header-style-seven .main-menu .navigation>li>a:hover,
+.home_7 .sec-title h4,
+.home_7 .service-home-7 .single-item .inner-box .lower-content .text h3 a:hover,
+.home_7 .service-home-7 .single-item .inner-box .lower-content .othre-box .link a:hover,
+.home_7 .about-home-7 .image-box svg .char19,
+.home_7 .about-home-7 .image-box svg .char20,
+.home_7 .about-home-7 .content-box .inner-box h2,
+.home_7 .about-home-7 .content-box .link a i,
+.home_7 .about-home-7 .content-box .link a:hover,
+.home_7 .chooseus-home-7 .inner-box .single-item a:hover,
+.home_7 .chooseus-home-7 .inner-box .single-item a:hover i,
+.home_7 .works-home-7 .single-item span,
+.home_7 .works-home-7 .more-text i,
+.home_7 .works-home-7 .more-text h3 a,
+.home_7 .testimonial-home-7 .form-inner .more-text p span,
+.home_7 .testimonial-home-7 .testimonial-content .inner-box .designation,
+.home_7 .testimonial-home-7 .owl-theme .owl-nav .owl-next:hover::after,
+.home_7 .testimonial-home-7 .owl-theme .owl-nav .owl-prev:hover::after,
+.home_7 .news-home-7 .news-block-one .read-more-btn a:hover i,
+.home_7 .news-home-7 .news-block-one .read-more-btn a:hover,
+.home_7 .news-home-7 .news-block-one h4 a:hover,
+.home_7 .subscribe-home-7 .inner-box .more-text,
+.home_7 .footer-style-seven .footer-top .contact-widget .info li i,
+.home_7 .footer-style-seven a:hover,
+.home_7 .footer-style-seven .footer-top .links-widget .links-list li a:hover,
+.home_7 .footer-style-seven .footer-bottom .text a {
+    color: #0bdaba;
+}
+
+/* Border Color */
+
+.home_7 .main-menu .navigation>li>ul,
+.home_7 .main-menu .navigation>li>ul>li>ul,
+.home_7 .banner-section.style-seven .owl-theme .owl-nav .owl-prev:hover::after,
+.home_7 .banner-section.style-seven .owl-theme .owl-nav .owl-next:hover::after,
+.home_7 .about-home-7 .image-box .icon-box,
+.home_7 .chooseus-home-7 .inner-box .single-item:hover .icon-box,
+.home_7 .works-home-7 .more-text,
+.home_7 .testimonial-home-7 .owl-theme .owl-nav .owl-next:hover::after,
+.home_7 .testimonial-home-7 .owl-theme .owl-nav .owl-prev:hover::after,
+.home_7 .news-home-7 .news-block-one .author:before {
+    border-color: #0bdaba;
+}
+
+.home_7 .works-home-7 .single-item:hover .icon-box {
+    box-shadow: 0px 0px 0px 2px #0bdaba;
+}

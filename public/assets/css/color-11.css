@@ -1,0 +1,127 @@
+/* Default Color File  */
+
+
+/* Background */
+
+.home_11 .theme-btn,
+.home_11 .header-style-11 .header-top .text .icon-box,
+.home_11 .header-style-11 .right-column .info li i,
+.home_11 .header-style-11 .btn-title:before,
+.home_11 .banner-section.style-11 .owl-theme .owl-nav .owl-prev:hover:after,
+.home_11 .banner-section.style-11 .owl-theme .owl-nav .owl-next:hover:after,
+.home_11 .home-11 .sec-title h4:before,
+.home_11 .home-11 .sec-title h4:after,
+.home_11 .service-home-11 .single-item .lower-content .inner .icon-box,
+.home_11 .service-home-11 .single-item .lower-content .inner .btn-box a:hover,
+.home_11 .about-home-11 .image-box .video-btn:before,
+.home_11 .progress-levels .progress-box .bar .bar-fill,
+.home_11 .about-home-11 .content-box .btn-box a:hover,
+.home_11 .immigration-home-11 .inner-box .content-box .btn-box a:hover,
+.home_11 .chooseus-home-11 .inner-box .single-item:last-child,
+.home_11 .team-home-11 .sec-title a.link-btn:hover,
+.home_11 .team-home-11:before,
+.home_11 .clients-home-11,
+.home_11 .funfact-home-11:before,
+.home_11 .news-home-11 .single-item .image-box .link,
+.home_11 .news-home-11 .single-item .image-box .category,
+.home_11 .contact-home-11 .contact-form-box .btn-style-four .btn-title::before,
+.home_11 .consultation-home-11 .single-item .icon-box,
+.home_11 .footer-style-11 .footer-top .logo-widget .twitter-box .icon-box,
+.home_11 .footer-style-11 .widget-title:before,
+.home_11 .footer-style-11 .widget-title:after,
+.home_11 .mobile-menu .menu-backdrop {
+    background-color: #0369ee;
+}
+
+/* Color */
+
+.home_11 .header-style-11 .header-top .text strong,
+.home_11 .header-style-11 .header-top .text a i,
+.home_11 .header-style-11 .header-top .text a:hover,
+.home_11 .header-style-11 .right-column .info li p a:hover,
+.home_11 .header-style-11 .select-box i,
+.home_11 .header-style-11 .main-menu .navigation>li.current>a,
+.home_11 .header-style-11 .main-menu .navigation>li>a:hover,
+.home_11 .main-menu .navigation>li>ul>li>a:hover,
+.home_11 .main-menu .navigation>li>ul>li>ul>li>a:hover,
+.home_11 .header-style-11 .language .icon-box,
+.home_11 .banner-section.style-11 .content-box .btn-box a:hover,
+.home_11 .home-11 .sec-title h4,
+.home_11 .service-home-11 .single-item .lower-content .inner h6,
+.home_11 .service-home-11 .single-item .lower-content .inner h3 a:hover,
+.home_11 .about-home-11 .content-box .btn-box a,
+.home_11 .chooseus-home-11 .inner-box .single-item .icon-box,
+.home_11 .testimonial-home-11 .inner-box .rating-box li,
+.home_11 .testimonial-home-11 .inner-box h3 span,
+.home_11 .team-home-11 .sec-title a.link-btn,
+.home_11 .team-home-11 .single-item .lower-content h3 a:hover,
+.home_11 .team-home-11 .single-item .lower-content .designation,
+.home_11 .funfact-home-11 .single-item .icon-box,
+.home_11 .funfact-home-11 .single-item .count-outer,
+.home_11 .news-home-11 .single-item .lower-content .post-info li a:hover,
+.home_11 .news-home-11 .single-item .lower-content .post-info li span,
+.home_11 .news-home-11 .single-item .lower-content h3 a:hover,
+.home_11 .news-home-11 .single-item .lower-content .link a i,
+.home_11 .news-home-11 .single-item .lower-content .link a:hover,
+.home_11 .contact-home-11 .contact-form-box .btn-style-four:hover,
+.home_11 .consultation-home-11 .single-item .link a i,
+.home_11 .consultation-home-11 .single-item .link a:hover,
+.home_11 .footer-style-11 a:hover,
+.home_11 .footer-style-11 .footer-top .logo-widget .text span,
+.home_11 .footer-style-11 .footer-top .post-widget .post h5 a:hover {
+    color: #0369ee;
+}
+
+/* Border Color */
+
+.home_11 .main-menu .navigation>li>ul,
+.home_11 .main-menu .navigation>li>ul>li>ul,
+.home_11 .header-style-11 .btn-style-four,
+.home_11 .header-style-11 .sticky-header .btn-style-four:hover,
+.home_11 .banner-section.style-11 .owl-theme .owl-nav .owl-prev:hover:after,
+.home_11 .banner-section.style-11 .owl-theme .owl-nav .owl-next:hover:after,
+.home_11 .service-home-11 .single-item .lower-content .inner .btn-box a:hover,
+.home_11 .about-home-11 .progress-levels .progress-box .bar .bar-innner,
+.home_11 .about-home-11 .content-box .btn-box a:hover,
+.home_11 .immigration-home-11 .inner-box .content-box .btn-box a:hover,
+.home_11 .immigration-home-11 .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active,
+.home_11 .chooseus-home-11 .inner-container,
+.home_11 .team-home-11 .sec-title a.link-btn:hover,
+.home_11 .team-home-11 .single-item:hover .image-box,
+.home_11 .contact-home-11 .contact-form-box .btn-style-four {
+    border-color: #0369ee;
+}
+
+
+
+.home_11 .header-style-11 .right-column .social-links li:first-child a {
+    background: #3b5999;
+}
+
+.home_11 .header-style-11 .right-column .social-links li:nth-child(2) a {
+    background: #55acee;
+}
+
+.home_11 .header-style-11 .right-column .social-links li:nth-child(3) a {
+    background: #cd201f;
+}
+
+.home_11 .header-style-11 .right-column .social-links li:last-child a {
+    background: #0077b5;
+}
+
+.home_11 .team-home-11 .single-item .lower-content .social-links li:first-child a {
+    color: #3b5998;
+}
+
+.home_11 .team-home-11 .single-item .lower-content .social-links li:nth-child(2) a {
+    color: #00acee;
+}
+
+.home_11 .team-home-11 .single-item .lower-content .social-links li:nth-child(3) a {
+    color: #0e76a8;
+}
+
+.home_11 .team-home-11 .single-item .lower-content .social-links li:last-child a {
+    color: #ff0000;
+}

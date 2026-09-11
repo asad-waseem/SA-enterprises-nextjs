@@ -1,0 +1,197 @@
+$customicon-font: "customicon";
+
+@font-face {
+    font-family: $customicon-font;
+    src: url("./customicon.ttf?92ec80e06f7bf84cf5f990222ade5e76") format("truetype"),
+url("./customicon.woff?92ec80e06f7bf84cf5f990222ade5e76") format("woff"),
+url("./customicon.woff2?92ec80e06f7bf84cf5f990222ade5e76") format("woff2"),
+url("./customicon.eot?92ec80e06f7bf84cf5f990222ade5e76#iefix") format("embedded-opentype"),
+url("./customicon.svg?92ec80e06f7bf84cf5f990222ade5e76#customicon") format("svg");
+}
+
+i[class^="customicon-"]:before, i[class*=" customicon-"]:before {
+    font-family: customicon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$customicon-map: (
+    "right-chevron": "\f101",
+    "magnifying-glass": "\f102",
+    "engineer": "\f103",
+    "crane": "\f104",
+    "building": "\f105",
+    "play-button": "\f106",
+    "right-quote": "\f107",
+    "sketch": "\f108",
+    "home": "\f109",
+    "building-1": "\f10a",
+    "engineering": "\f10b",
+    "brickwall": "\f10c",
+    "phone-call": "\f10d",
+    "architect": "\f10e",
+    "measure": "\f10f",
+    "brick-wall": "\f110",
+    "global": "\f111",
+    "globe": "\f112",
+    "blueprint": "\f113",
+    "checkmark": "\f114",
+    "permission": "\f115",
+    "discussion": "\f116",
+    "goal": "\f117",
+    "rocket": "\f118",
+    "passport": "\f119",
+    "businessman": "\f11a",
+    "award": "\f11b",
+    "architect-1": "\f11c",
+    "trophy": "\f11d",
+    "trophy-1": "\f11e",
+    "budget": "\f11f",
+    "calculator": "\f120",
+    "suitcase": "\f121",
+    "mail-advertising": "\f122",
+    "file": "\f123",
+    "innovation": "\f124",
+    "shuttle": "\f125",
+    "investment": "\f126",
+    "lifebuoy": "\f127",
+    "play": "\f128",
+    "blogging": "\f129",
+    "subscribe-rss-button": "\f12a",
+    "chatting": "\f12b",
+);
+
+.customicon-right-chevron:before {
+    content: map-get($customicon-map, "right-chevron");
+}
+.customicon-magnifying-glass:before {
+    content: map-get($customicon-map, "magnifying-glass");
+}
+.customicon-engineer:before {
+    content: map-get($customicon-map, "engineer");
+}
+.customicon-crane:before {
+    content: map-get($customicon-map, "crane");
+}
+.customicon-building:before {
+    content: map-get($customicon-map, "building");
+}
+.customicon-play-button:before {
+    content: map-get($customicon-map, "play-button");
+}
+.customicon-right-quote:before {
+    content: map-get($customicon-map, "right-quote");
+}
+.customicon-sketch:before {
+    content: map-get($customicon-map, "sketch");
+}
+.customicon-home:before {
+    content: map-get($customicon-map, "home");
+}
+.customicon-building-1:before {
+    content: map-get($customicon-map, "building-1");
+}
+.customicon-engineering:before {
+    content: map-get($customicon-map, "engineering");
+}
+.customicon-brickwall:before {
+    content: map-get($customicon-map, "brickwall");
+}
+.customicon-phone-call:before {
+    content: map-get($customicon-map, "phone-call");
+}
+.customicon-architect:before {
+    content: map-get($customicon-map, "architect");
+}
+.customicon-measure:before {
+    content: map-get($customicon-map, "measure");
+}
+.customicon-brick-wall:before {
+    content: map-get($customicon-map, "brick-wall");
+}
+.customicon-global:before {
+    content: map-get($customicon-map, "global");
+}
+.customicon-globe:before {
+    content: map-get($customicon-map, "globe");
+}
+.customicon-blueprint:before {
+    content: map-get($customicon-map, "blueprint");
+}
+.customicon-checkmark:before {
+    content: map-get($customicon-map, "checkmark");
+}
+.customicon-permission:before {
+    content: map-get($customicon-map, "permission");
+}
+.customicon-discussion:before {
+    content: map-get($customicon-map, "discussion");
+}
+.customicon-goal:before {
+    content: map-get($customicon-map, "goal");
+}
+.customicon-rocket:before {
+    content: map-get($customicon-map, "rocket");
+}
+.customicon-passport:before {
+    content: map-get($customicon-map, "passport");
+}
+.customicon-businessman:before {
+    content: map-get($customicon-map, "businessman");
+}
+.customicon-award:before {
+    content: map-get($customicon-map, "award");
+}
+.customicon-architect-1:before {
+    content: map-get($customicon-map, "architect-1");
+}
+.customicon-trophy:before {
+    content: map-get($customicon-map, "trophy");
+}
+.customicon-trophy-1:before {
+    content: map-get($customicon-map, "trophy-1");
+}
+.customicon-budget:before {
+    content: map-get($customicon-map, "budget");
+}
+.customicon-calculator:before {
+    content: map-get($customicon-map, "calculator");
+}
+.customicon-suitcase:before {
+    content: map-get($customicon-map, "suitcase");
+}
+.customicon-mail-advertising:before {
+    content: map-get($customicon-map, "mail-advertising");
+}
+.customicon-file:before {
+    content: map-get($customicon-map, "file");
+}
+.customicon-innovation:before {
+    content: map-get($customicon-map, "innovation");
+}
+.customicon-shuttle:before {
+    content: map-get($customicon-map, "shuttle");
+}
+.customicon-investment:before {
+    content: map-get($customicon-map, "investment");
+}
+.customicon-lifebuoy:before {
+    content: map-get($customicon-map, "lifebuoy");
+}
+.customicon-play:before {
+    content: map-get($customicon-map, "play");
+}
+.customicon-blogging:before {
+    content: map-get($customicon-map, "blogging");
+}
+.customicon-subscribe-rss-button:before {
+    content: map-get($customicon-map, "subscribe-rss-button");
+}
+.customicon-chatting:before {
+    content: map-get($customicon-map, "chatting");
+}

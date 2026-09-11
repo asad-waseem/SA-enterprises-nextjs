@@ -1,0 +1,109 @@
+/* Default Color File  */
+
+
+/* Background */
+
+.home_12 .theme-btn,
+.home_12 .bootstrap-select .dropdown-menu li a.active,
+.home_12 .dropdown-item.active,
+.dropdown-item:active,
+.home_12 .header-style-12 .header-middle .social-links li a:hover,
+.home_12 .shopping-cart .count,
+.home_12 .header-style-12 .navbar-right-info .search-box .form-group button,
+.home_12 .banner-section.style-12 .content-box .video-btn a,
+.home_12 .home-12 .sec-title h4:before,
+.home_12 .home-12 .sec-title h4:after,
+.home_12 .category-home-12 .single-item .video-btn a,
+.home_12 .offered-home-12 .single-item .inner-box:hover .image-box .category a,
+.home_12 .offered-home-12 .single-item .inner-box .image-box .price,
+.home_12 .offered-home-12 .single-item .inner-box .image-box .price:before,
+.home_12 .about-home-12 .inner-box .nav-tabs li a.active,
+.home_12 .highlights-home-12 .single-item .inner-box .icon-box:before,
+.home_12 .team-home-12 .slide-item .inner-box .content-box .other-option .share-option .share-icon:hover,
+.home_12 .team-home-12 .slide-item .inner-box .content-box .other-option .mail-box a:hover,
+.home_12 .team-home-12 .owl-nav .owl-next:hover::after,
+.home_12 .team-home-12 .owl-nav .owl-prev:hover::after,
+.home_12 .funfact-home-12 .inner-container,
+.home_12 .instructor-home-12 .inner-box .icon-box:before,
+.home_12 .news-block-two .category,
+.home_12 .consulting-home-12 .btn-box a:hover,
+.home_12 .subscribe-home-12 .inner-container,
+.home_12 .subscribe-home-12 .inner-container:before,
+.home_12 .style-12.scroll-to-top:hover,
+.home_12 .mobile-menu .menu-backdrop {
+    background-color: #ed5253;
+}
+
+/* Color */
+
+.home_12 .bootstrap-select .dropdown-menu li a,
+.home_12 .header-style-12 .header-middle .topics-box .icon-box,
+.home_12 .header-style-12 .header-middle .topics-box a:hover,
+.home_12 .header-style-12 .main-menu .navigation>li.current>a,
+.home_12 .header-style-12 .main-menu .navigation>li>a:hover,
+.home_12 .header-style-12 .btn-style-four .btn-title:hover,
+.home_12 .main-menu .navigation>li>ul>li>a:hover,
+.home_12 .main-menu .navigation>li>ul>li>ul>li>a:hover,
+.home_12 .banner-section.style-12 .content-box .video-btn h6,
+.home_12 .banner-section.style-12 .owl-theme .owl-nav .owl-prev:hover::after,
+.home_12 .banner-section.style-12 .owl-theme .owl-nav .owl-next:hover::after,
+.home_12 .sec-title h4,
+.home_12 .category-home-12 .single-item .content-box .icon-box,
+.home_12 .category-home-12 .single-item h3 a:hover,
+.home_12 .btn-style-five,
+.home_12 .category-home-12 .btn-style-five:hover .btn-title,
+.home_12 .offered-home-12 .single-item .inner-box .lower-content h5 a:hover,
+.home_12 .offered-home-12 .single-item .inner-box .lower-content .rating-box ul li,
+.home_12 .offered-home-12 .single-item .inner-box .lower-content .rating-box a:hover,
+.home_12 .offered-home-12 .single-item .inner-box .lower-content .lower-box .view-time i,
+.home_12 .offered-home-12 .single-item .inner-box .lower-content .lower-box .share-option:hover .share-icon,
+.home_12 .offered-home-12 .single-item .inner-box .lower-content .lower-box .share-option .share-links li a:hover,
+.home_12 .offered-home-12 .nav-tabs .nav-link.active,
+.home_12 .about-home-12 .content-box .text ul li:before,
+.home_12 .highlights-home-12 .single-item .inner-box a,
+.home_12 .team-home-12 .slide-item .inner-box .content-box .other-option .share-option .share-links li a:hover,
+.home_12 .team-home-12 .slide-item .inner-box .content-box .text h3 a:hover,
+.home_12 .team-home-12 .slide-item .inner-box .content-box .text .designation,
+.home_12 .funfact-home-12 .single-item .icon-box,
+.home_12 .testimonial-home-12 .inner-box .rating-box li,
+.home_12 .testimonial-home-12 .inner-box h3 span,
+.home_12 .instructor-home-12 .inner-box span,
+.home_12 .news-block-two .post-meta li a,
+.home_12 .news-block-two .read-more-link,
+.home_12 .news-home-12 .news-block-two .read-more-link i,
+.home_12 .consulting-home-12 .btn-box a,
+.home_12 .consulting-home-12 .other-links li a:hover,
+.home_12 .subscribe-home-12 .text .icon-box,
+.home_12 .footer-style-12 .footer-bottom .copyright a,
+.home_12 .footer-style-12 .footer-bottom .footer-nav li a:hover,
+.home_12 .footer-style-12 .footer-top .logo-widget .inner-box .single-item .icon-box,
+.home_12 .footer-style-12 a:hover,
+.home_12 .footer-style-12 .footer-top .link-list li a:hover,
+.home_12 .footer-style-12 .footer-top .link-list li a:before,
+.home_12 .style-12.scroll-to-top {
+    color: #ed5253;
+}
+
+/* Border Color */
+
+.home_12 .header-style-12 .header-middle .topics-box a:hover,
+.home_12 .main-menu .navigation>li>ul,
+.home_12 .main-menu .navigation>li>ul>li>ul,
+.home_12 .btn-style-five,
+.home_12 .team-home-12 .owl-nav .owl-next:hover::after,
+.home_12 .team-home-12 .owl-nav .owl-prev:hover::after,
+.home_12 .testimonial-home-12 .owl-item.active .inner-box .thumb-box,
+.home_12 .testimonial-home-12 .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active,
+.home_12 .testimonial-home-12 .swiper-pagination .swiper-pagination-bullet:hover,
+.home_12 .consulting-home-12 .btn-box a,
+.home_12 .style-12.scroll-to-top {
+    border-color: #ed5253;
+}
+
+.home_12 .header-style-12 .navbar-right-info .search-box .form-group input:focus {
+    border-color: #ed5253 !important;
+}
+
+.home_12 .offered-home-12 .single-item .inner-box .image-box .offer {
+    background-color: #f4b63c;
+}

@@ -1,0 +1,99 @@
+/* Default Color File  */
+
+
+/* Background */
+
+.home_13 .header-top-13 .top-right .social-links li a:hover,
+.home_13 .header-top-13 .top-right .support-box h6 i,
+.home_13 .search-popup .search-form fieldset input[type="submit"],
+.home_13 .search-popup .recent-searches li a:hover,
+.home_13 .btn-style-seven,
+.home_13 .header-style-13 .nav-right .search-btn button:hover,
+.home_13 .banner-section-home13 .owl-theme .owl-nav .owl-prev:hover::after,
+.home_13 .banner-section-home13 .owl-theme .owl-nav .owl-next:hover::after,
+.home_13 .about-section-home13 .image-box .counter-column,
+.home_13 .chooseus-section-home13 .single-item .inner-box h3:before,
+.home_13 .project-section-home13 .project-block .inner-box .text .btn-box a:hover,
+.home_13 .project-section-home13 .owl-theme .owl-nav button:hover,
+.home_13 .video-section-home13 .swiper-pagination .swiper-pagination-bullet:before,
+.home_13 .team-section-home13 .team-block .inner-box .lower-content .info-box>a:hover,
+.home_13 .team-section-home13 .owl-nav button:hover,
+.home_13 .testimonial-section-home13 .testimonial-block .inner-box .icon-box,
+.home_13 .news-section-home13 .news-block .inner-box .image-box .category a,
+.home_13 .news-section-home13 .news-block .inner-box .image-box .image a,
+.home_13 .news-section-home13 .owl-nav button:hover,
+.home_13 .faq-section-home13 .content-box .content-inner,
+.home_13 .footer-style-13 .footer-top:before,
+.home_13 .btn-style-eight2:before,
+.home_13 .footer-style-13 .links-widget ul li a:hover:before,
+.home_13 .mobile-menu .menu-backdrop {
+    background-color: #e34824;
+}
+
+
+
+
+
+/* Color */
+
+.home_13 .header-top-13 .info-box h6 a i,
+.home_13 .header-top-13 .info-box .icon-box,
+.home_13 .header-top-13 .info-box h6 a:hover,
+.home_13 .header-top-13 .top-right .support-box h6 a:hover,
+.home_13 .header-style-13 .main-menu .navigation>li>ul>li>a:hover,
+.home_13 .header-style-13 .main-menu .navigation>li>ul>li>ul>li>a:hover,
+.home_13 .header-style-13 .sticky-header .btn-style-seven .btn-title:hover,
+.home_13 .sec-title-two h6,
+.home_13 .about-section-home13 .content-box .inner-box .single-item .icon-box,
+.home_13 .service-section-home13 .single-item .inner-box .icon-box,
+.home_13 .service-section-home13 .single-item .inner-box .text h3 a:hover,
+.home_13 .chooseus-section-home13 .single-item .inner-box h6 a:hover,
+.home_13 .chooseus-section-home13 .single-item .inner-box h6 a i,
+.home_13 .project-section-home13 .project-block .inner-box .text .btn-box a,
+.home_13 .project-section-home13 .project-block .inner-box .text p,
+.home_13 .project-section-home13 .project-block .inner-box .text h2 a:hover,
+.home_13 .video-section-home13 .inner-box .video-btn a,
+.home_13 .team-section-home13 .team-block .inner-box .lower-content h3 a:hover,
+.home_13 .team-section-home13 .team-block .inner-box .lower-content .designation,
+.home_13 .team-section-home13 .team-block .inner-box .lower-content .info-box .share-link li a:hover,
+.home_13 .testimonial-section-home13 .testimonial-block .inner-box .designation,
+.home_13 .news-section-home13 .news-block h6 a i,
+.home_13 .news-section-home13 .news-block .inner-box h6 a:hover,
+.home_13 .news-section-home13 .news-block .inner-box .image-box .image a:hover,
+.home_13 .news-section-home13 .news-block .inner-box .lower-content .post-info li,
+.home_13 .news-section-home13 .news-block .inner-box .lower-content .post-info li a:hover,
+.home_13 .news-section-home13 .news-block .inner-box .lower-content h3 a:hover,
+.home_13 .faq-section-home13 .content-box .content-inner .btn-box a,
+.home_13 .faq-section-home13 .accordion-box .block .acc-btn.active .icon-outer,
+.home_13 .clients-section-home13 .more-links h6 a i,
+.home_13 .clients-section-home13 .more-links h6 a:hover,
+.home_13 .footer-style-13 .footer-top .subscribe-inner .form-group .icon,
+.home_13 .btn-style-eight2,
+.home_13 .footer-style-13 .links-widget ul li a:hover,
+.home_13 .footer-style-13 .post-widget .post h5 a:hover,
+.home_13 .footer-style-13 .post-widget .more-links h6 a:hover,
+.home_13 .footer-style-13 .post-widget .more-links h6 a i,
+.home_13 .scroll-to-top.style-13,
+.home_13 .footer-style-13 .footer-bottom a:hover {
+    color: #e34824;
+}
+
+
+
+
+/* Border Color */
+
+.home_13 .search-popup .recent-searches li a:hover,
+.home_13 .header-style-13 .main-menu .navigation>li>ul,
+.home_13 .header-style-13 .main-menu .navigation>li>ul>li>ul,
+.home_13 .banner-section-home13 .owl-theme .owl-nav .owl-prev:hover::after,
+.home_13 .banner-section-home13 .owl-theme .owl-nav .owl-next:hover::after,
+.home_13 .team-section-home13 .team-block .inner-box .lower-content .info-box>a:hover,
+.home_13 .faq-section-home13 .accordion-box .block .acc-btn.active,
+.home_13 .scroll-to-top.style-13 {
+    border-color: #e34824;
+}
+
+.home_13 .footer-style-13 .footer-top .subscribe-inner .form-group input:focus {
+    border-color: #e34824 !important;
+}

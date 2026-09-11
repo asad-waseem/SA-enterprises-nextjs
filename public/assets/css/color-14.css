@@ -1,0 +1,70 @@
+/* Default Color File  */
+
+
+/* Background */
+
+.home_14 .search-popup .search-form fieldset input[type="submit"],
+.home_14 .search-popup .recent-searches li a:hover,
+.home_14 .header-style-14 .social-links li a,
+.home_14 .btn-style-nine,
+.home_14 .banner-section-home14 .owl-theme .owl-nav button:hover:after,
+.home_14 .process-section-two.home-14 .process-block-two .icon,
+.home_14 .project-section-home14 .project-block .content-box .view-btn a,
+.home_14 .chooseus-section-home14 .content-box .single-item .icon-box,
+.home_14 .team-section-home14 .team-block .inner-box .content-box .other-option .share-option .share-icon:hover,
+.home_14 .team-section-home14 .team-block .inner-box .content-box .other-option .mail-box a:hover,
+.home_14 .scroll-to-top.style-14:hover,
+.home_14 .footer-style-14 .footer-top .upper-box .icon-box,
+.home_14 .mobile-menu .menu-backdrop {
+    background-color: #7dafc3;
+}
+
+
+
+
+
+/* Color */
+
+.home_14 .header-top-14 .top-inner .info-box li a:hover,
+.home_14 .header-top-14 .top-inner .text p a:hover,
+.home_14 .header-top-14 .top-inner .text p i,
+.home_14 .header-top-14 .top-inner .language li a.current,
+.home_14 .header-top-14 .top-inner .search-btn button:hover,
+.home_14 .header-style-14 .main-menu .navigation>li.current>a,
+.home_14 .header-style-14 .main-menu .navigation>li>a:hover,
+.home_14 .header-style-14 .main-menu .navigation>li>ul>li>a:hover,
+.home_14 .header-style-14 .main-menu .navigation>li>ul>li>ul>li>a:hover,
+.home_14 .banner-section-home14 .content-inner h6,
+.home_14 .feature-section-home14 .feature-block .inner-box h3 a:hover,
+.home_14 .feature-section-home14 .feature-block .inner-box:hover .icon-box,
+.home_14 .service-section-home14 .tab-btn .icon-box,
+.home_14 .service-section-home14 .tabs-content .content-box h6 a:hover,
+.home_14 .funfact-section-home14 .counter-block .icon-box,
+.home_14 .project-section-home14 .project-block .content-box .text p,
+.home_14 .project-section-home14 .project-block .content-box .text h3 a:hover,
+.home_14 .cta-section-home14 .text .icon-box,
+.home_14 .team-section-home14 .team-block .inner-box .content-box .text .designation,
+.home_14 .team-section-home14 .team-block .inner-box .content-box .other-option .share-option .share-links li a:hover,
+.home_14 .team-section-home14 .team-block .inner-box .content-box .text h3 a:hover,
+.home_14 .testimonial-section-home14 .testimonial-block .designation,
+.home_14 .footer-style-14 .footer-bottom a:hover,
+.home_14 .scroll-to-top.style-14,
+.home_14 .footer-style-14 .footer-top .info-box h6,
+.home_14 .footer-style-14 .footer-top .info-box p a:hover,
+.home_14 .footer-style-14 .footer-top .footer-menu li a:hover,
+.home_14 .scroll-to-top.style-14 {
+    color: #7dafc3;
+}
+
+
+
+
+/* Border Color */
+
+.home_14 .search-popup .recent-searches li a:hover,
+.home_14 .banner-section-home14 .owl-theme .owl-nav button:hover:after,
+.home_14 .project-section-home14 .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active,
+.home_14 .team-section-home14 .team-block .inner-box .content-box .other-option .share-option .share-icon:hover,
+.home_14 .team-section-home14 .team-block .inner-box .content-box .other-option .mail-box a:hover {
+    border-color: #7dafc3;
+}

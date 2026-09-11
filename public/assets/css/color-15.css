@@ -1,0 +1,97 @@
+/* Default Color File  */
+
+
+/* Background */
+
+.home_15 .header-style-15 .nav-right .social-links li a,
+.home_15 .btn-style-ten,
+.home_15 .search-popup .search-form fieldset input[type="submit"],
+.home_15 .search-popup .recent-searches li a:hover,
+.home_15 .banner-section-home15 .owl-theme .owl-nav .owl-prev:hover::after,
+.home_15 .banner-section-home15 .owl-theme .owl-nav .owl-next:hover::after,
+.home_15 .sec-title-four:before,
+.home_15 .service-section-home15 .service-block .inner-box .link-btn a:before,
+.home_15 .service-section-home15 .service-block .inner-box .shape-3,
+.home_15 .about-section-home15 .image-box .bg-layer,
+.home_15 .about-section-home15 .progress-box .bar-inner,
+.home_15 .about-section-home15 .progress-box .bar-inner:after,
+.home_15 .chooseus-section-home15 .single-item:hover .upper .icon-box,
+.home_15 .video-section-home15 .inner-box svg:before,
+.home_15 .pricing-section-home15 .pricing-table .table-header:before,
+.home_15 .pricing-section-home15 .pricing-table .table-content .pricing-btn:hover,
+.home_15 .pricing-section-home15 .pricing-table .tags,
+.home_15 .pricing-section-home15 .pricing-table .tags:before,
+.home_15 .pricing-section-home15 .pricing-table .tags:after,
+.home_15 .news-section-home15 .news-block .inner-box .category a,
+.home_15 .news-section-home15 .news-block .inner-box .lower-box .link:before,
+.home_15 .footer-style-15 .gallery-widget .image-list li .image,
+.home_15 .footer-style-15 .footer-subscribe .subscribe-inner .icon-box,
+.home_15 .footer-style-15 .footer-subscribe .subscribe-inner .message-btn button,
+.home_15 .mobile-menu .menu-backdrop {
+    background-color: #ffa800;
+}
+
+
+
+/* Color */
+
+.home_15 .main-menu .navigation>li>ul>li>a:hover,
+.home_15 .main-menu .navigation>li>ul>li>ul>li>a:hover,
+.home_15 .header-style-15 .header-lower .info li i,
+.home_15 .header-style-15 .header-lower .info li a:hover,
+.home_15 .header-style-15 .header-lower .right-column .info li a:hover span,
+.home_15 .header-style-15 .nav-outer .search-btn button:hover,
+.home_15 .header-style-15 .main-menu .navigation>li.current>a,
+.home_15 .header-style-15 .main-menu .navigation>li>a:hover,
+.home_15 .service-section-home15 .service-block .inner-box .icon-box,
+.home_15 .service-section-home15 .service-block .inner-box .link-btn a i,
+.home_15 .service-section-home15 .service-block .inner-box h3 a:hover,
+.home_15 .service-section-home15 .more-text h5 a:hover,
+.home_15 .about-section-home15 .progress-inner h3,
+.home_15 .about-section-home15 .content-box .author-box .author .designation,
+.home_15 .project-section-home15 .project-block .inner-box h3 a:hover,
+.home_15 .video-section-home15 .inner-box svg,
+.home_15 .team-section-home15 .team-block .inner-box h3 a:hover,
+.home_15 .team-section-home15 .team-block:hover .inner-box .designation,
+.home_15 .team-section-home15 .team-block .inner-box .other-option>li a:hover,
+.home_15 .team-section-home15 .team-block .inner-box .other-option>li:hover,
+.home_15 .team-section-home15 .team-block .inner-box .other-option .share-links li a:hover,
+.home_15 .team-section-home15 .owl-nav button:hover:after,
+.home_15 .testimonial-home-15 .inner-box h3 span,
+.home_15 .testimonial-home-15 .inner-box .rating-box li,
+.home_15 .pricing-section-home15 .pricing-table .table-content h2,
+.home_15 .pricing-section-home15 .pricing-table .table-content h2 .symble,
+.home_15 .pricing-section-home15 .pricing-table.active .table-content .pricing-btn,
+.home_15 .news-section-home15 .news-block .inner-box .title h3 a:hover,
+.home_15 .news-section-home15 .news-block .inner-box .lower-box .link i,
+.home_15 .news-section-home15 .news-block .inner-box .lower-box .comment:hover,
+.home_15 .scroll-to-top.style-15,
+.home_15 .footer-style-15 .footer-top .about-widget h5,
+.home_15 .footer-style-15 .footer-top .about-widget .email i,
+.home_15 .footer-style-15 .footer-top .about-widget .email p a:hover,
+.home_15 .footer-style-15 .links-widget .link-list li a:hover,
+.home_15 .footer-style-15 .post-widget .post h5 a:hover,
+.home_15 .footer-style-15 .footer-bottom a:hover {
+    color: #ffa800;
+}
+
+
+
+/* Border Color */
+
+.home_15 .main-menu .navigation>li>ul,
+.home_15 .main-menu .navigation>li>ul>li>ul,
+.home_15 .search-popup .recent-searches li a:hover,
+.home_15 .banner-section-home15 .owl-theme .owl-nav .owl-prev:hover::after,
+.home_15 .banner-section-home15 .owl-theme .owl-nav .owl-next:hover::after,
+.home_15 .news-section-home15 .news-block .inner-box,
+.home_15 .news-section-home15 .news-block .inner-box:before,
+.home_15 .scroll-to-top.style-15 {
+    border-color: #ffa800;
+}
+
+
+.home_15 .contact-section-home15 .form-group input:focus,
+.home_15 .contact-section-home15 .form-group textarea:focus {
+    border-color: #ffa800 !important;
+}

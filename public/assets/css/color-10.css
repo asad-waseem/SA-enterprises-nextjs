@@ -1,0 +1,84 @@
+/* Default Color File  */
+
+
+/* Background */
+
+.home_10 .theme-btn,
+.home_10 .banner-section.style-ten .banner-content,
+.home_10 .banner-section.style-ten .owl-theme .owl-nav .owl-prev:hover::after,
+.home_10 .banner-section.style-ten .owl-theme .owl-nav .owl-next:hover::after,
+.home_10 .banner-section.style-ten .owl-theme .swiper-pagination span:before,
+.home_10 .about-home-10 .content-box .inner-box .single-item .icon-box,
+.home_10 .service-home-10 .srvice-info .info-list li .nav-link.active i,
+.home_10 .chooseus-home-10 .inner-box .single-item .icon-box,
+.home_10 .chooseus-home-10 .inner-box .single-item h3:before,
+.home_10 .chooseus-home-10 .inner-box .single-item .icon-box:before,
+.home_10 .funfact-home-10 .single-item .icon-box,
+.home_10 .funfact-home-10 .single-item .count-outer:before,
+.home_10 .works-home-10 .single-item .icon-box,
+.home_10 .pricing-home-10 .content-box .nav-tabs .nav-link.active:after,
+.home_10 .pricing-home-10 .content-box .btn-box a:hover,
+.home_10 .pricing-home-10 .paricing-table .table-footer a:hover,
+.home_10 .testimonial-home-10 .inner-box .icon-box,
+.home_10 .news-block-one .category,
+.home_10 .news-home-10 .owl-nav .owl-next:hover::after,
+.home_10 .news-home-10 .owl-nav .owl-prev:hover::after,
+.home_10 .accordion-box.style-two .block .acc-btn.active,
+.home_10 .faq-home-10 .form-inner .form-group button:hover,
+.home_10 .footer-banner-section,
+.home_10 .footer-style-ten .footer-top .logo-widget .download-box a,
+.home_10 .style-10.scroll-to-top:hover,
+.home_10 .mobile-menu .menu-backdrop {
+    background-color: #1c836c;
+}
+
+/* Color */
+
+.home_10 .header-style-ten .main-menu .navigation>li.current>a,
+.home_10 .header-style-ten .main-menu .navigation>li>a:hover,
+.home_10 .main-menu .navigation>li>ul>li>a:hover,
+.home_10 .main-menu .navigation>li>ul>li>ul>li>a:hover,
+.home_10 .header-style-ten .header-lower .header-info li i,
+.home_10 .banner-section.style-ten .banner-content .banner-btn:hover,
+.home_10 .banner-section.style-ten .owl-theme .owl-nav .owl-prev::after,
+.home_10 .banner-section.style-ten .owl-theme .owl-nav .owl-next::after,
+.home_10 .home-10 .sec-title h4,
+.home_10 .about-home-10 .content-box .lower-box .author-box .designation,
+.home_10 .service-home-10 .srvice-info .info-list li h3 a:hover,
+.home_10 .service-home-10 .content-box .inner-box .list li a:hover,
+.home_10 .service-home-10 .content-box .inner-box .link a:hover,
+.home_10 .service-home-10 .srvice-info .info-list li i,
+.home_10 .chooseus-home-10 .inner-box .single-item .link-box .link,
+.home_10 .works-home-10 .single-item .upper-title p,
+.home_10 .pricing-home-10 .content-box .nav-tabs .nav-link.active,
+.home_10 .pricing-home-10 .content-box .btn-box a,
+.home_10 .pricing-home-10 .paricing-table .table-header .icon-box,
+.home_10 .pricing-home-10 .paricing-table h2,
+.home_10 .testimonial-home-10 .inner-box .designation,
+.home_10 .news-home-10 .news-block-one h4 a:hover,
+.home_10 .news-home-10 .news-block-one .read-more-btn a:hover i,
+.home_10 .news-home-10 .news-block-one .read-more-btn a:hover,
+.home_10 .faq-home-10 .form-inner .form-group button,
+.home_10 .faq-home-10 .form-inner .form-group .text span,
+.home_10 .footer-banner-section .single-item .icon-box,
+.home_10 .footer-style-ten a:hover,
+.home_10 .footer-style-ten .footer-top .logo-widget .download-box a:hover,
+.home_10 .footer-style-ten .footer-top .form-inner .btn-style-four .btn-title:hover,
+.home_10 .style-10.scroll-to-top {
+    color: #1c836c;
+}
+
+/* Border Color */
+
+.home_10 .main-menu .navigation>li>ul,
+.home_10 .main-menu .navigation>li>ul>li>ul,
+.home_10 .banner-section.style-ten .owl-theme .owl-dot.active span,
+.home_10 .banner-section.style-ten .owl-theme .swiper-pagination span:hover,
+.home_10 .pricing-home-10 .content-box .nav-tabs .nav-link.active:before,
+.home_10 .pricing-home-10 .content-box .btn-box a,
+.home_10 .news-home-10 .news-block-one .author:before,
+.home_10 .accordion-box.style-two .block .acc-btn.active,
+.home_10 .faq-home-10 .form-inner .form-group button,
+.home_10 .style-10.scroll-to-top {
+    border-color: #1c836c;
+}

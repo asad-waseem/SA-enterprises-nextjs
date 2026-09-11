@@ -1,0 +1,88 @@
+/* Default Color File  */
+
+
+/* Background */
+
+.home_6 .btn-style-four,
+.home_6 .banner-section.style-six .owl-theme .owl-nav .owl-prev:hover:after,
+.home_6 .banner-section.style-six .owl-theme .owl-nav .owl-next:hover:after,
+.home_6 .highlights-home-6 .inner-box .single-item:last-child,
+.home_6 .highlights-home-6 .video-column .video-btn a,
+.home_6 .feature-home-6 .feature-block .inner-box .image-box:after,
+.home_6 .service-home-6 .service-block .inner-box .content-box .lower-content .icon-box,
+.home_6 .service-home-6 .service-block .inner-box .overlay-content .lower-content .link a:hover,
+.home_6 .service-home-6 .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active,
+.home_6 .service-home-6 .swiper-pagination .swiper-pagination-bullet:hover,
+.home_6 .chooseus-home-6 .left-column,
+.home_6 .project-home-6 .single-item .inner-box .content-box .other-links li a:hover,
+.home_6 .project-home-6 .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active,
+.home_6 .project-home-6 .swiper-pagination .swiper-pagination-bullet:hover,
+.home_6 .team-home-6 .single-item .inner-box .image-box .icon-box a,
+.home_6 .team-home-6 .single-item .inner-box .lower-content .inner:before,
+.home_6 .team-home-6 .single-item .inner-box:hover .lower-content .inner:after,
+.home_6 .testimonial-home-6 .inner-box .thumb-box,
+.home_6 .testimonial-home-6 .inner-box .thumb-box:before,
+.home_6 .news-block-two .category,
+.home_6 .cta-home-6,
+.home_6 .contact-home-6 .default-form .form-group button:hover,
+.home_6 .footer-style-six .footer-top .download-box a:hover,
+.home_6 .mobile-menu .menu-backdrop {
+    background-color: #bd8a4a;
+}
+
+/* Color */
+
+.home_6 .header-top .contact-info li,
+.home_6 .header-top .contact-info li a,
+.home_6 .header-top .contact-info-two li a i,
+.home_6 .header-top.style-six .social-links li a:hover,
+.home_6 .header-middle .icon-box .icon,
+.home_6 .header-style-six .main-menu .navigation>li.current>a,
+.home_6 .header-style-six .main-menu .navigation>li>a:hover,
+.home_6 .main-menu .navigation>li>ul>li>a:hover,
+.home_6 .main-menu .navigation>li>ul>li>ul>li>a:hover,
+.home_6 .header-style-six .navbar-right-info .search-form .form-group input:focus+button,
+.home_6 .header-style-six .navbar-right-info .search-form .form-group button:hover,
+.home_6 .highlights-home-6 .inner-box .single-item:first-child .icon-box,
+.home_6 .highlights-home-6 .curved-circle .char19,
+.home_6 .highlights-home-6 .curved-circle .char20,
+.home_6 .about-section-two .content-block h4,
+.home_6 .testimonial-block-two .quote,
+.home_6 .service-home-6 .service-block .inner-box span,
+.home_6 .service-home-6 .service-block .inner-box h3 a:hover,
+.home_6 .service-home-6 .service-block .inner-box .overlay-content .lower-content .link a,
+.home_6 .chooseus-home-6 .left-column .support-box a:hover,
+.home_6 .chooseus-home-6 .right-column .single-item .icon-box,
+.home_6 .project-home-6 .single-item .inner-box .content-box .text p,
+.home_6 .project-home-6 .single-item .inner-box .content-box .text h3 a:hover,
+.home_6 .team-home-6 .single-item .inner-box .image-box .icon-box a:hover,
+.home_6 .team-home-6 .single-item .inner-box .lower-content .inner .designation,
+.home_6 .testimonial-home-6 .inner-box .rating li,
+.home_6 .testimonial-home-6 .inner-box .text .designation,
+.home_6 .testimonial-home-6 .owl-nav .owl-prev:hover:before,
+.home_6 .testimonial-home-6 .owl-nav .owl-next:hover:before,
+.home_6 .testimonial-home-6 .owl-nav .owl-prev:hover:after,
+.home_6 .testimonial-home-6 .owl-nav .owl-next:hover:after,
+.home_6 .news-block-two .post-meta li a,
+.home_6 .news-home-6 .news-block-two:hover .read-more-link,
+.home_6 .cta-home-6 .text .icon-box,
+.home_6 .cta-home-6 .form-inner .form-group button,
+.home_6 .contact-home-6 .default-form .form-group button,
+.home_6 .footer-style-six a:hover,
+.home_6 .footer-style-six .footer-top .download-box a,
+.home_6 .footer-style-six .footer-top .counter-widget .single-item .icon-box,
+.home_6 .footer-style-six .footer-top .links-widget .links-list li a:hover {
+    color: #bd8a4a;
+}
+
+/* Border Color */
+
+.home_6 .main-menu .navigation>li>ul,
+.home_6 .main-menu .navigation>li>ul>li>ul,
+.home_6 .banner-section.style-six .owl-theme .owl-nav .owl-prev:hover:after,
+.home_6 .banner-section.style-six .owl-theme .owl-nav .owl-next:hover:after,
+.home_6 .service-home-6 .service-block .inner-box .overlay-content .lower-content .link a,
+.home_6 .contact-home-6 .default-form .form-group button,
+.home_6 .footer-style-six .footer-top .download-box a {
+    border-color: #bd8a4a;
+}
