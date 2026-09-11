@@ -1,3 +1,4 @@
+'use client'
 import Link from "next/link"
 
 export default function Footer1() {
@@ -112,12 +113,19 @@ export default function Footer1() {
                 {/* Footer Bottom */}
                 <div className="auto-container">
                     <div className="footer-bottom">
-                        <div className="row m-0 justify-content-between">
-                            <ul className="menu">
+                        <div className="row m-0 justify-content-between align-items-center mb-3">
+                            <ul className="menu mb-0">
                                 <li><Link href="/contact">Terms &amp; Quotations</Link></li>
                                 <li><Link href="/faq">Procurement FAQ</Link></li>
                             </ul>
-                            <div className="scroll-to-top-two scroll-to-target" data-target="html"><i className="flaticon-backward" />Get back to top</div>
+                            <div 
+                                className="scroll-to-top-two scroll-to-target d-flex align-items-center" 
+                                role="button"
+                                tabIndex={0}
+                                onClick={() => { if (typeof window !== 'undefined') window.scrollTo({ top: 0, behavior: 'smooth' }) }}
+                            >
+                                <i className="flaticon-backward" />Get back to top
+                            </div>
                         </div>
                         <div className="copyright">© {new Date().getFullYear()} <Link href="/">SA Enterprises</Link>, All Rights Reserved. Where Business Needs Come First.</div>
                     </div>

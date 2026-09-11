@@ -1008,4 +1008,48 @@
         font-size: 30px;
         line-height: 38px;
     }
-}
+}
+
+/* Footer bottom exact horizontal alignment (Terms & FAQ vs Scroll To Top) */
+.footer-bottom .row {
+    align-items: center !important;
+}
+
+.footer-bottom ul.menu {
+    display: inline-flex !important;
+    align-items: center !important;
+    margin-bottom: 0 !important;
+    padding-left: 0 !important;
+    line-height: 1.2 !important;
+}
+
+.footer-bottom ul.menu li {
+    display: inline-flex !important;
+    align-items: center !important;
+    margin-bottom: 0 !important;
+    line-height: 1.2 !important;
+}
+
+.footer-bottom ul.menu li a {
+    display: inline-block !important;
+    line-height: 1.2 !important;
+}
+
+.footer-bottom ul.menu li+li:before {
+    top: 50% !important;
+    transform: translateY(-50%) !important;
+    line-height: 1 !important;
+}
+
+.footer-bottom .scroll-to-top-two {
+    display: inline-flex !important;
+    align-items: center !important;
+    line-height: 1.2 !important;
+    margin-bottom: 0 !important;
+}
+
+.footer-bottom .scroll-to-top-two i {
+    line-height: 1 !important;
+    margin-right: 6px !important;
+}
+
