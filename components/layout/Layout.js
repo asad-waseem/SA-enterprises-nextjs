@@ -2,6 +2,7 @@
 'use client'
 import { useEffect, useState } from "react"
 import BackToTop from '../elements/BackToTop'
+import WhatsAppWidget from '../elements/WhatsAppWidget'
 import DataBg from "../elements/DataBg"
 import Breadcrumb from './Breadcrumb'
 import SearchPopup from "./SearchPopup"
@@ -115,6 +116,7 @@ export default function Layout({ headerStyle, footerStyle, headTitle, breadcrumb
                 {footerStyle == 15 ? < Footer15 /> : null}
             </div>
             <BackToTop scroll={scroll} />
+            <WhatsAppWidget />
         </>
     )
 }
