@@ -63,7 +63,7 @@ export default function Footer1() {
                                             <h3 className="widget-title">Support</h3>
                                             <div className="widget-content">
                                                 <ul>
-                                                    <li><Link href="/faq">FAQ’s</Link></li>
+                                                    <li><Link href="/faq">FAQs</Link></li>
                                                     <li><Link href="/contact#quote">Submit RFQ</Link></li>
                                                     <li><Link href="/contact">Direct Contact</Link></li>
                                                     <li><Link href="https://wa.me/923000000000" target="_blank" rel="noopener noreferrer">WhatsApp Desk</Link></li>
@@ -113,24 +113,76 @@ export default function Footer1() {
                 {/* Footer Bottom */}
                 <div className="auto-container">
                     <div className="footer-bottom">
-                        <div className="row m-0 justify-content-between align-items-center mb-3">
+                        <div className="footer-bottom-bar">
                             <ul className="menu mb-0">
                                 <li><Link href="/contact">Terms &amp; Quotations</Link></li>
                                 <li><Link href="/faq">Procurement FAQ</Link></li>
                             </ul>
-                            <div 
-                                className="scroll-to-top-two scroll-to-target d-flex align-items-center" 
-                                role="button"
-                                tabIndex={0}
-                                onClick={() => { if (typeof window !== 'undefined') window.scrollTo({ top: 0, behavior: 'smooth' }) }}
-                            >
-                                <i className="flaticon-backward" />Get back to top
+                            <div className="copyright">
+                                &copy; {new Date().getFullYear()} <Link href="/">SA Enterprises</Link>, All Rights Reserved. Where Business Needs Come First.
                             </div>
                         </div>
-                        <div className="copyright">© {new Date().getFullYear()} <Link href="/">SA Enterprises</Link>, All Rights Reserved. Where Business Needs Come First.</div>
                     </div>
                 </div>
             </footer>
+            <style jsx global>{`
+                .footer-bottom .footer-bottom-bar {
+                    display: flex;
+                    align-items: center;
+                    justify-content: space-between;
+                    gap: 20px;
+                    margin-bottom: 18px;
+                }
+
+                .footer-bottom .footer-bottom-bar .copyright {
+                    text-align: right;
+                    max-width: 100%;
+                    overflow-wrap: anywhere;
+                }
+
+                @media only screen and (max-width: 767px) {
+                    .footer-bottom .footer-bottom-bar {
+                        flex-direction: column;
+                        justify-content: center;
+                        margin-bottom: 15px;
+                        text-align: center;
+                    }
+
+                    .footer-bottom .footer-bottom-bar .copyright {
+                        text-align: center;
+                        margin-top: 0;
+                    }
+
+                    .footer-bottom {
+                        padding-bottom: 105px;
+                    }
+
+                    .scroll-to-top {
+                        right: auto;
+                        left: 14px;
+                        bottom: 14px;
+                        margin-left: 0;
+                        width: 46px;
+                        height: 46px;
+                        line-height: 46px;
+                    }
+                }
+
+                @media only screen and (max-width: 360px) {
+                    .footer-bottom .footer-bottom-bar .menu {
+                        flex-direction: column;
+                        gap: 8px;
+                    }
+
+                    .footer-bottom .footer-bottom-bar .menu li {
+                        margin-right: 0;
+                    }
+
+                    .footer-bottom .footer-bottom-bar .menu li + li::before {
+                        display: none;
+                    }
+                }
+            `}</style>
         </>
     )
 }

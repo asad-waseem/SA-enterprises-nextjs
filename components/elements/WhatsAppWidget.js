@@ -904,16 +904,38 @@ export default function WhatsAppWidget() {
 
                 @media (max-width: 480px) {
                     .sa-wa-creative-root {
-                        right: 16px;
-                        bottom: 18px;
+                        right: 14px;
+                        bottom: 14px;
                     }
                     .sa-wa-card {
                         width: calc(100vw - 32px);
                         right: 0;
-                        bottom: 85px;
+                        bottom: 68px;
+                        max-height: calc(100dvh - 92px);
+                        overflow-y: auto;
+                        border-radius: 20px;
                     }
                     .sa-mascot-speech {
                         display: none;
+                    }
+                    .sa-sphere-stage {
+                        width: 56px;
+                        height: 56px;
+                    }
+                    .sa-orbital-ring {
+                        display: none;
+                    }
+                    .sa-wa-core-btn {
+                        width: 54px;
+                        height: 54px;
+                    }
+                    .sa-icon-container {
+                        font-size: 27px;
+                    }
+                    .sa-btn-status-badge {
+                        width: 11px;
+                        height: 11px;
+                        border-width: 2px;
                     }
                 }
 
@@ -924,7 +946,7 @@ export default function WhatsAppWidget() {
                     }
                     .sa-wa-card {
                         width: calc(100vw - 20px);
-                        bottom: 80px;
+                        bottom: 66px;
                         border-radius: 18px;
                     }
                     .sa-wa-card-header {
