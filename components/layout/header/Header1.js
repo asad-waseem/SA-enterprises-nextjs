@@ -82,6 +82,13 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu, isSide
                 {/* Mobile Menu  */}
                 <MobileMenu handleMobileMenu={handleMobileMenu} handleSidebar={handleSidebar} isSidebar={isSidebar} />
             </header>
+            <style jsx global>{`
+                @media only screen and (max-width: 1139px) {
+                    .main-header.header-style-one .navbar-right-info {
+                        display: none !important;
+                    }
+                }
+            `}</style>
         </>
     )
 }
